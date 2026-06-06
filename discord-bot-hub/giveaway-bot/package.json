@@ -1,0 +1,13 @@
+{
+  "name": "giveaway-bot",
+  "version": "1.0.0",
+  "description": "Premium Discord giveaway bot with scheduling, multiple winners, and reroll support.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.0.3"
+  }
+}

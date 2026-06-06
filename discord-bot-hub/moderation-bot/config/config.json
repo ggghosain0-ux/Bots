@@ -1,0 +1,9 @@
+{
+  "logChannel": "mod-log",
+  "warnsChannel": "warn-log",
+  "antiSpam": true,
+  "antiLink": true,
+  "antiRaid": true,
+  "antiMentionSpam": true,
+  "defaultMuteRole": "Muted"
+}

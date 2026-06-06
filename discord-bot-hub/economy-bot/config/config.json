@@ -1,0 +1,8 @@
+{
+  "currencyName": "Coins",
+  "dailyReward": 500,
+  "weeklyReward": 4000,
+  "monthlyReward": 12000,
+  "bankLimit": 100000,
+  "shopEnabled": true
+}

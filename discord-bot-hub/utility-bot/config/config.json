@@ -1,0 +1,6 @@
+{
+  "defaultLocale": "en-US",
+  "weatherProvider": "openweathermap",
+  "pollDuration": 600,
+  "reminderRetention": 7
+}

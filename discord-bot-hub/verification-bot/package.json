@@ -1,0 +1,13 @@
+{
+  "name": "verification-bot",
+  "version": "1.0.0",
+  "description": "Premium Discord verification bot with CAPTCHA, button verification, and anti-bot protection.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.0.3"
+  }
+}

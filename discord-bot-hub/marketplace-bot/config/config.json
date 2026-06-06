@@ -1,0 +1,6 @@
+{
+  "currencyName": "Credits",
+  "defaultCategories": ["Digital Products", "Services"],
+  "couponEnabled": true,
+  "autoDeliveryEnabled": true
+}

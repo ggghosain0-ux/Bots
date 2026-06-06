@@ -1,0 +1,13 @@
+{
+  "name": "marketplace-bot",
+  "version": "1.0.0",
+  "description": "Premium Discord marketplace bot with digital products, orders, coupons, and auto delivery.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.0.3"
+  }
+}

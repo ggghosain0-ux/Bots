@@ -1,0 +1,9 @@
+{
+  "messageXP": 10,
+  "voiceXP": 5,
+  "levelUpRoleRewards": [
+    { "level": 5, "role": "Rising Star" },
+    { "level": 10, "role": "Veteran" }
+  ],
+  "leaderboardLimit": 10
+}

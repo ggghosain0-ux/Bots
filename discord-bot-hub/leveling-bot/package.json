@@ -1,0 +1,13 @@
+{
+  "name": "leveling-bot",
+  "version": "1.0.0",
+  "description": "Premium Discord leveling bot with XP systems, rank cards, and role rewards.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.0.3"
+  }
+}

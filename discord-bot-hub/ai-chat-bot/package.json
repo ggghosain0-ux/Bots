@@ -1,0 +1,13 @@
+{
+  "name": "ai-chat-bot",
+  "version": "1.0.0",
+  "description": "Premium Discord AI chat bot with summaries, translation, image prompts, and moderation.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.0.3"
+  }
+}

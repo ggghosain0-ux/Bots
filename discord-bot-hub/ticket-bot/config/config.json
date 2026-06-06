@@ -1,0 +1,6 @@
+{
+  "ticketCategory": "Support Tickets",
+  "staffRole": "Support Team",
+  "transcriptChannel": "ticket-transcripts",
+  "ticketCloseTimeout": 3600
+}

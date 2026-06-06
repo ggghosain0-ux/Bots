@@ -1,0 +1,6 @@
+{
+  "verificationRole": "Verified",
+  "captchaChannel": "verification",
+  "antiBotProtection": true,
+  "logChannel": "verification-log"
+}

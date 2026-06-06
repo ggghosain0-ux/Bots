@@ -1,0 +1,6 @@
+{
+  "defaultModel": "gpt-4",
+  "maxResponseTokens": 400,
+  "moderationEnabled": true,
+  "translationLanguages": ["en", "es", "fr", "de"]
+}

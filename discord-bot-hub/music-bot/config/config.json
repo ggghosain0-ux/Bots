@@ -1,0 +1,6 @@
+{
+  "defaultVolume": 75,
+  "queueLimit": 50,
+  "autoLeave": 300,
+  "enable24_7": true
+}

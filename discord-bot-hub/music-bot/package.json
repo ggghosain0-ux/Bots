@@ -1,0 +1,13 @@
+{
+  "name": "music-bot",
+  "version": "1.0.0",
+  "description": "Premium Discord music bot with play, queue, loop, and 24/7 support.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.0.3"
+  }
+}
